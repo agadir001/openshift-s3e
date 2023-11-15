@@ -6,7 +6,6 @@ metadata:
   labels:
     app: highscore
   name: highscore
-  namespace: arcade
 spec:
   progressDeadlineSeconds: 600
   replicas: 1
